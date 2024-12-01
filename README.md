@@ -19,10 +19,4 @@ Drone Path Planning, Robotics, AI
 \- Test: My laboratory<br>
 \- TADN: multiple object tracking
 
-### 🛫 Follow Me 🛫
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AKJ457)
-[![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:example@example.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so)
-
----
 
