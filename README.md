@@ -3,7 +3,7 @@
 # 🤔 I am ... 🤔
 
 ### 🤖 Research Interests 🤖
-Robotics, Control, AI
+Drone Path Planning, Robotics, AI
 
 ### 🌿 Tech Stack 🌿
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -16,9 +16,8 @@ Robotics, Control, AI
 
 ### 🔍 Repository Overview 🔍
 - **[On-going] DepthEye**: Depth camera-based drone path planning system
-- **Ground Station**: RQT-based ground station for FAC_MAV project
-- **Dasom**: Aerial Manipulator Project (DOB, Admittance control, etc.)
-- **Manipulator Controller**: Reference position generation, error calculation
+- **SkyPilot Controller**: Reference position generation and error calculation
+- **EA-FCM**: multi UAVs coverage path planning
 - **Test**: My laboratory 🍩
 
 ### 🛫 Follow Me 🛫
