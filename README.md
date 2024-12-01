@@ -2,10 +2,10 @@
 
 # 🤔 I am ... 🤔
 
-## 🤖 Research Interests 🤖
+### 🤖 Research Interests 🤖
 Robotics, Control, AI
 
-## 🌿 Tech Stack 🌿
+### 🌿 Tech Stack 🌿
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
