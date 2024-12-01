@@ -16,7 +16,6 @@ Drone Path Planning, Robotics, AI
 \- [On-going] DepthEye: Depth camera-based drone path planning system<br>
 \- SkyPilot Controller: Reference position generation and error calculation<br>
 \- EA-FCM: multi UAVs coverage path planning<br>
-\- Test: My laboratory<br>
-\- TADN: multiple object tracking
+\- [Learning] TADN: multiple object tracking
 
 
