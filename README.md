@@ -14,16 +14,12 @@ Robotics, Control, AI
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
----
-
 ### 🔍 Repository Overview 🔍
 - **[On-going] Inch Worm**: Series Elastic Actuator based Aerial manipulation system
 - **Ground Station**: RQT-based ground station for FAC_MAV project
 - **Dasom**: Aerial Manipulator Project (DOB, Admittance control, etc.)
 - **Manipulator Controller**: Reference position generation, error calculation
 - **Test**: My laboratory 🍩
-
----
 
 ### 🛫 Follow Me 🛫
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AKJ457)
