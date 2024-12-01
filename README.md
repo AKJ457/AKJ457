@@ -15,7 +15,7 @@ Robotics, Control, AI
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### 🔍 Repository Overview 🔍
-- **[On-going] Inch Worm**: Series Elastic Actuator based Aerial manipulation system
+- **[On-going] DepthEye**: Depth camera-based drone path planning system
 - **Ground Station**: RQT-based ground station for FAC_MAV project
 - **Dasom**: Aerial Manipulator Project (DOB, Admittance control, etc.)
 - **Manipulator Controller**: Reference position generation, error calculation
