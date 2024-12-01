@@ -2,7 +2,7 @@
 
 # 🤔 I am ... 🤔
 
-### 🤖 Research Interests 🤖
+### :small_airplane: Research Interests 🤖
 Drone Path Planning, Robotics, AI
 
 ### 🌿 Tech Stack 🌿
