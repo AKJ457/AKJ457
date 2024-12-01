@@ -1,7 +1,5 @@
 # AKJ 🌱
 
-# 🤔 I am ... 🤔
-
 ### :small_airplane: Research Interests 🤖
 Drone Path Planning, Robotics, AI
 
