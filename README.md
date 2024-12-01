@@ -15,10 +15,10 @@ Drone Path Planning, Robotics, AI
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### 🔍 Repository Overview 🔍
-- **[On-going] DepthEye**: Depth camera-based drone path planning system
-- **SkyPilot Controller**: Reference position generation and error calculation
-- **EA-FCM**: multi UAVs coverage path planning
-- **Test**: My laboratory 🍩
+- [On-going] DepthEye: Depth camera-based drone path planning system
+- SkyPilot Controller: Reference position generation and error calculation
+- EA-FCM: multi UAVs coverage path planning
+- Test: My laboratory 
 
 ### 🛫 Follow Me 🛫
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AKJ457)
